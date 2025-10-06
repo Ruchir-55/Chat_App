@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="account">Don\'t have an account yet? <font color="#FFE91E63"><b><u>Signup</u></b></font></string>
+</resources>
